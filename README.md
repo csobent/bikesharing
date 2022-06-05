@@ -30,3 +30,6 @@ After:
 - This picture depicts top starting locations for bikes. In comparison to upper Manhattan and the surrounding areas, downtown Manhattan shows more utilization. Possibly, more people are traveling from the inner city to other areas:
 ![Top_Starting_Locations](Images/Top_Starting_Locations.png)
 
+- This last picture shows August peak hour. Between the hours of 6AM and 9AM, bike utilization increases. It increases again between the hours of 4PM and 7PM. This trend is possibly due to the weather changes throughout the day:
+![Peak_August_Hours.png](Images/Peak_August_Hours.png)
+
