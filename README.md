@@ -1,4 +1,7 @@
 # Bikesharing in NYC
+Link to Challenge Story:
+[CitiBike Challenge Story](https://public.tableau.com/app/profile/carter.bentinganan/viz/CitiBike_Challenge_16544463121770/CitiBikeChallengeStory)
+
 ## Purpose of Analysis
 The first part of preparing of this analysis was using Pandas to convert the tripduration from an integer to datetime. After this conversion, we used Tableau to create different visualizations to convince investors that a bike-sharing program is Des Moines is a feasible and profitable proposal. Using the converted tripduration, we were assigned to create a set of visualizations:
 - Show the length of time that bikes are checked out for all riders and genders
