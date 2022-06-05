@@ -27,6 +27,10 @@ After:
 - This picture depicts another heatmap of bike utilization by weekday and by hour. Overall observations are that during early work hours, or early rushhour, bike utilization increases; between the hours 6AM and 9AM. Bike utilization remains steady until 5PM at which point it increases; notable difference between the hours of 5PM and 7PM:
 ![Trips_by_Weekday.png](Images/Trips_by_Weekday.png)
 
+## Overall Summary
+Overall, it seems having a bike-sharing program would benefit Des Moines, especially if people become subscribers to the program rather than just being one-time customers. Especially, since the population gender ratio in Des Moines is approximately 50:50, a bike-sharing program would become popular in the area. It would also become a bigger hit during the summer months, since it seems temperature averages in NYC compared to Des Moines seem to be similar with a high 84 degrees Fahrenheit, low of 69 degrees Fahrenheit (NYC), and a high of 84 degrees Fahrenheit, low of 64 degrees Fahrenheit (Des Moines). It might be increasingly more popular in Des Moines during summer since there is a slight degree difference in the lows. Maybe one way to entice the female and other/unknown categories is to create more advertising/marketing methods targeted towards them.
+
+### Additional Visualizations
 - This picture depicts top starting locations for bikes. In comparison to upper Manhattan and the surrounding areas, downtown Manhattan shows more utilization. Possibly, more people are traveling from the inner city to other areas:
 ![Top_Starting_Locations](Images/Top_Starting_Locations.png)
 
