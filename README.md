@@ -24,3 +24,7 @@ After:
 - This picture depicts another heatmap of a breakdown of customer vs subscriber, filtered by gender. In the subscriber usertype, males use bikes more overall, but in the female and male categories, bike use is heavier between the days of Thursday and Saturday. Mostly subscribers use the bikes versus possible one-time use customers:
 ![Customer_Subscriber.png](Images/Customer_Subscriber.png)
 
+- This picture depicts another heatmap of bike utilization by weekday and by hour. Overall observations are that during early work hours, or early rushhour, bike utilization increases; between the hours 6AM and 9AM. Bike utilization remains steady until 5PM at which point it increases; notable difference between the hours of 5PM and 7PM:
+- ![Trips_by_Weekday.png](Images/Trips_by_Weekday.png)
+- 
+
