@@ -18,3 +18,9 @@ After:
 - This picture depicts a breakdown of length of time bikes were checked out filtered by gender. Males, represented by the orange line, use bikes 3-4 times more than females (yellow) and 9-10 times more than the other/unknown categorization (red):
 ![Checkout_Times_Gender.png](Images/Checkout_Times_Gender.png)
 
+- This picture depicts a heatmap of bike utilization by weekday and by hour, filtered by gender. For the female and male categories, there is a trend in bikes being used more during the hours of 6AM to 10AM and then again between 5PM and 8PM. In the unknown category, there does not seem to be enough data to see a trend:
+![Trips_by_Gender.png](Images/Trips_by_Gender.png)
+
+- This picture depicts another heatmap of a breakdown of customer vs subscriber, filtered by gender. In the subscriber usertype, males use bikes more overall, but in the female and male categories, bike use is heavier between the days of Thursday and Saturday. Mostly subscribers use the bikes versus possible one-time use customers:
+![Customer_Subscriber.png](Images/Customer_Subscriber.png)
+
