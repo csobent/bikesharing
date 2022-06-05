@@ -25,6 +25,8 @@ After:
 ![Customer_Subscriber.png](Images/Customer_Subscriber.png)
 
 - This picture depicts another heatmap of bike utilization by weekday and by hour. Overall observations are that during early work hours, or early rushhour, bike utilization increases; between the hours 6AM and 9AM. Bike utilization remains steady until 5PM at which point it increases; notable difference between the hours of 5PM and 7PM:
-- ![Trips_by_Weekday.png](Images/Trips_by_Weekday.png)
-- 
+![Trips_by_Weekday.png](Images/Trips_by_Weekday.png)
+
+- This picture depicts top starting locations for bikes. In comparison to upper Manhattan and the surrounding areas, downtown Manhattan shows more utilization. Possibly, more people are traveling from the inner city to other areas:
+![Top_Starting_Locations](Images/Top_Starting_Locations.png)
 
